@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **MERN Stack Projects.**
 
 - 📫 How to reach me **upadeeb@gmail.com**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adeeb-ulpara-0762901a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeeb-ulpara-0762901a2" height="30" width="40" /></a>
